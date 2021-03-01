@@ -81,4 +81,5 @@
 {{query $1}}
 #+END_EXAMPLE
 {{query $1}}"}
- :feature/enable-block-time? true}
+ :feature/enable-block-time? true
+ :feature/enable-journals? false}
