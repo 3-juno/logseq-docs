@@ -3,8 +3,7 @@
  :shortcuts {:editor/new-block "alt+enter"},
  :text-formats [],
  :all-pages-public? true,        ;; Git settings
- :default-home {:page "Changelog"
-                :sidebar "Contents"}
+ :default-home {:page "Contents", :sidebar "Contents"}
 
  ;; Currently, we support either "Markdown" or "Org".
  ;; This can overwrite your global preference so that
